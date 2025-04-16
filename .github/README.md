@@ -90,6 +90,7 @@ nix develop
 ### Credits/Inspiration
 | Credit                                                              |  Reason                                |
 |---------------------------------------------------------------------|----------------------------------------|
+| [NixOS + Hyperland](https://github.com/Sly-Harvey/NixOS)            | Auther & Stable NixOS hyperland configuration            |
 | [Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)          | Script and Waybar templates            |
 | [HyDE](https://github.com/HyDE-Project/HyDE)                        | Some more useful scripts               |
 | [rofi](https://github.com/adi1090x/rofi)                            | Rofi launcher templates                |
